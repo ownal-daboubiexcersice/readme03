@@ -9,6 +9,6 @@ Cloning
 $ git clone https://github.com/test
 $ git add * to add a file 
 $ git status to get the status of the file
-$ git commit -m “made change x,y,z” you comitted changes to the file
+$ git commit -m “made change x,y,z” you comitted changes to the file.
 $ git commit -a this command commits snapshot of all modifications to a tracked file in the working directory.
 $ git push origin master this command pushes changes from the local master branch to the remote repo called origin.
